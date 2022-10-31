@@ -1,0 +1,2 @@
+print(food)
+# print(clothing)
